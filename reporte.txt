@@ -1,0 +1,3 @@
+Estudiante: Ming
+Puntaje: 100
+Clasificacion: Nivel alto
